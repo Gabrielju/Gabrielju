@@ -17,7 +17,7 @@
  
  HTML & Javascript [Hangman](https://github.com/Gabrielju/Hangman)
  
-   group project
+  👪 group project
    
   Javascript [CookieClicker](https://gabrielju.github.io/CookiClicker/)
 <!--
