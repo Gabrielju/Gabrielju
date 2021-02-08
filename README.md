@@ -13,9 +13,9 @@
  
  🌱 my first projects
  
- HTML & css [Tim-berners-lee] (https://github.com/Gabrielju/tim-berners-lee)
+ HTML & css [Tim-berners-lee](https://github.com/Gabrielju/tim-berners-lee)
  
- HTML & Javascript [Hangman] (https://github.com/Gabrielju/Hangman)
+ HTML & Javascript [Hangman](https://github.com/Gabrielju/Hangman)
 <!--
 **Gabrielju/Gabrielju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
