@@ -15,11 +15,11 @@
  
  HTML & CSS [Tim-berners-lee](https://github.com/Gabrielju/tim-berners-lee)
  
- HTML & JS [Hangman](https://github.com/Gabrielju/Hangman)
+ HTML & Javascript [Hangman](https://github.com/Gabrielju/Hangman)
  
    group project
    
-  JS [CookieClicker](https://gabrielju.github.io/CookiClicker/)
+  Javascript [CookieClicker](https://gabrielju.github.io/CookiClicker/)
 <!--
 **Gabrielju/Gabrielju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
